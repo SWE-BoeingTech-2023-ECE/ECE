@@ -5,6 +5,16 @@ This repostitory is used by both Software and Hardware subteams to ensure transp
 1. Create a personal branch for personal Jiras assigned. The branch should be named in the following format: "BT2X_wiscID"
 2. Create a collab branch for Jiras that are wokred on collaboratively. The branch will be named as" "BT2X_collab"
 
+## Commit Message Format
+BT2X-XX Title
+
+DESCRIPTION:
+Describe your changes here
+
+TESTS:
+Describe your tests here, mention tester file
+
+
 ## Pull Requests
 To ensure quality of and control over code, any code that is pushed to the main_HW, main_SW branch shall be peer reviewed.
 This will be done in form of pull requests. To create a pull request, follow these steps:
