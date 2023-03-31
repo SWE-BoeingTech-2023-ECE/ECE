@@ -26,3 +26,15 @@ This will be done in form of pull requests. To create a pull request, follow the
 6. The pull request will need to be approved by Yuvakshi and a SW/HW Team lead to be merged into the repository.
 7. Once, you have the approvals, go ahead and merge the pull request.
 8. Yay! You contributed to the Team Repository
+
+##
+
+### About git and github
+You can find the slides from the [Git tutorial here](https://docs.google.com/presentation/d/1XU_CnmS7z37PKC3Bo0ZBJ8xg4_FIK9vzuVtMSRY8ikg/edit?usp=sharing). This has information about git and github along wiht some tips and best practices.
+
+You can view the [demo activity](https://github.com/SWE-BoeingTech-2023-ECE/demo-repository#activity-steps) for general steps on how to use a git repository.
+
+### Questions?
+For questions about Git, github, and using Jira reach out to Yuvakshi via GroupMe or email.
+
+
