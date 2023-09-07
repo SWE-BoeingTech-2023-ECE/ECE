@@ -10,8 +10,6 @@
 #include <ESP8266WiFi.h>
 #include "HTTPSRedirect.h"
 
-#include <LiquidCrystal_I2C.h>
-
 // Reed Switch pin
 #define REED_PIN 13
 
